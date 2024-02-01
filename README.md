@@ -1,8 +1,4 @@
-# DIO - Trilha .NET - API e Entity Framework
-www.dio.me
-
-## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
+# Projeto API com Entity Framework
 
 ## Contexto
 Você precisa construir um sistema gerenciador de tarefas, onde você poderá cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
@@ -15,11 +11,7 @@ A sua classe principal, a classe de tarefa, deve ser a seguinte:
 
 ![Diagrama da classe Tarefa](diagrama.png)
 
-Não se esqueça de gerar a sua migration para atualização no banco de dados.
-
-## Métodos esperados
-É esperado que você crie o seus métodos conforme a seguir:
-
+## Métodos
 
 **Swagger**
 
@@ -52,7 +44,3 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
   "status": "Pendente"
 }
 ```
-
-
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
